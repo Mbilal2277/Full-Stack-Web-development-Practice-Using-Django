@@ -1,0 +1,39 @@
+h1{
+color: blue;
+}
+
+li {
+  color: orange;
+}
+
+h4{
+  color: rgba(109, 50, 168);
+}
+
+p{
+
+  color: #0342a2;
+}
+
+body{
+
+  background: url(https://i.stack.imgur.com/vw6On.jpg);
+}
+
+div{
+  background-color: white;
+  border-color: orange;
+  border-width: 3px;
+  border-style: dotted;
+}
+
+span{
+
+  background-color: red;
+  color: white;
+}
+
+#Singledout{
+  color: red;
+  text-decoration: line-through;
+}
