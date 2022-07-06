@@ -1,0 +1,37 @@
+td{
+
+  width: 100px;
+  height: 200px;
+  align-items: center;
+  border: 4px solid white;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Splash', cursive;
+}
+
+.spectrum{
+  margin: auto;
+}
+
+#cell_1{
+  background-color: #DDFFF7;
+}
+
+#cell_2{
+  background-color: #93E1D8;
+}
+
+#cell_3{
+  background-color: #FFA69E;
+}
+
+#cell_4{
+  background-color: #D57582;
+}
+
+#cell_5{
+
+  background-color: #AA4465;
+}
